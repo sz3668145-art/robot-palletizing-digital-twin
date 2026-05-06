@@ -1,0 +1,2 @@
+# robot-palletizing-digital-twin
+基于AI Agent+Codex智能开发的饮料箱双机器人协同码垛数字孪生3D仿真工作站，包含ABB机械臂联动搬运、全线产线时序调度、碰撞干涉检测与工业自动化RAPID程序批量生成，智能制造柔性包装开源仿真项目
